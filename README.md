@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://img.shields.io/badge/Status-Online-22c55e?style=for-the-badge"> <img src="https://img.shields.io/badge/Stack-HTML5-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Level-Iniciante%20Pro-blue?style=for-the-badge"> </p>
 
-##PRIMEIRO TIMER DE LUCAS CARDOSO
+#PRIMEIRO TIMER DE LUCAS CARDOSO
 
 # 💻 Lucas Cardoso  
 
@@ -29,6 +29,7 @@ Evolução contínua.
 ---
 
 ⚡ “Pequenos projetos hoje, grandes sistemas amanhã.”
+
 
 
 
